@@ -1,0 +1,44 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="21" height="20" fill="transparent"/>
+<g id="Wallet Flow">
+<path d="M-639 -457C-639 -458.105 -638.105 -459 -637 -459H4074C4075.1 -459 4076 -458.105 4076 -457V1593C4076 1594.1 4075.1 1595 4074 1595H-637C-638.104 1595 -639 1594.1 -639 1593V-457Z" fill="#444444"/>
+<path d="M-637 -458H4074V-460H-637V-458ZM4075 -457V1593H4077V-457H4075ZM4074 1594H-637V1596H4074V1594ZM-638 1593V-457H-640V1593H-638ZM-637 1594C-637.552 1594 -638 1593.55 -638 1593H-640C-640 1594.66 -638.657 1596 -637 1596V1594ZM4075 1593C4075 1593.55 4074.55 1594 4074 1594V1596C4075.66 1596 4077 1594.66 4077 1593H4075ZM4074 -458C4074.55 -458 4075 -457.552 4075 -457H4077C4077 -458.657 4075.66 -460 4074 -460V-458ZM-637 -460C-638.657 -460 -640 -458.657 -640 -457H-638C-638 -457.552 -637.552 -458 -637 -458V-460Z" fill="white" fill-opacity="0.1"/>
+<g id="Web app / dashboard/ clicked dropdown">
+<rect width="1440" height="1202" transform="translate(-568 -379)" fill="white"/>
+<g id="Frame 1984077299">
+<g id="Frame 1984077292">
+<g id="Frame 26" filter="url(#filter0_d_7377_8699)">
+<path d="M-253 -158C-253 -162.418 -249.418 -166 -245 -166H57C61.4183 -166 65 -162.418 65 -158V38C65 42.4183 61.4183 46 57 46H-245C-249.418 46 -253 42.4183 -253 38V-158Z" fill="url(#paint0_linear_7377_8699)" shape-rendering="crispEdges"/>
+<path d="M-253 -158C-253 -162.418 -249.418 -166 -245 -166H57C61.4183 -166 65 -162.418 65 -158V38C65 42.4183 61.4183 46 57 46H-245C-249.418 46 -253 42.4183 -253 38V-158Z" stroke="#EAEAEA" shape-rendering="crispEdges"/>
+<g id="Frame 69">
+<g id="Frame 46">
+<path d="M-90 -2C-90 -6.41828 -86.4183 -10 -82 -10H41C45.4183 -10 49 -6.41828 49 -2V22C49 26.4183 45.4183 30 41 30H-82C-86.4183 30 -90 26.4183 -90 22V-2Z" stroke="#1E3D34"/>
+<g id="Frame">
+<path id="Vector" d="M5.5 15L15.5 5" stroke="#1E3D34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M5.5 6.6665V14.9998H13.8333" stroke="#1E3D34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_7377_8699" x="-254.5" y="-167.5" width="323" height="217" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="1" dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7377_8699"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7377_8699" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_7377_8699" x1="-93.7825" y1="-201.616" x2="-94.1498" y2="45.9998" gradientUnits="userSpaceOnUse">
+<stop offset="0.219028" stop-color="#FAFAFA" stop-opacity="0.8"/>
+<stop offset="0.293672" stop-color="#FCFCFC" stop-opacity="0.891866"/>
+<stop offset="0.381534" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
